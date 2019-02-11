@@ -1,7 +1,4 @@
----
 
-
----
 
 <h1 id="fitnest">Fitnest</h1>
 <h2 id="function-crud">Function CRUD</h2>
